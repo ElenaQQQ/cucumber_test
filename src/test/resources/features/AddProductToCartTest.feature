@@ -1,4 +1,4 @@
-Feature: Test scenario for Git
+Feature: Test scenario for Amazon cart
 
 Scenario: Add item into cart
 
